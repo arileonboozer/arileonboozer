@@ -1,16 +1,13 @@
-## Hi there 👋
+## Ari Boozer, Software and Web Development
 
-<!--
-**arileonboozer/arileonboozer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build websites, web and mobile apps, and automations for small businesses. Fixed prices, fast turnaround.
 
-Here are some ideas to get you started:
+- **Launch Page:** a one-page website, live in 48 hours. $750
+- **Full Site:** up to five pages, delivered in 5 days. $1,500
+- **Custom Build:** booking, customer portals, internal tools, automation, app prototypes. From $3,000
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I've built:** [NeoLibrary](https://neolibrary.net), a social app for logging and reviewing films, TV, books and games. I designed, built and launched it alone: a website plus iOS and Android apps, live in seven languages.
+
+**Tools:** Next.js, FastAPI, React Native (Expo), PostgreSQL, Google Cloud, AWS
+
+**Contact:** Newport, Arkansas · (870) 201-0441 · boozer.ira@gmail.com
