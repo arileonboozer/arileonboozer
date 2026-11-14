@@ -10,4 +10,4 @@ I build websites, web and mobile apps, and automations for small businesses. Fix
 
 **Tools:** Next.js, FastAPI, React Native (Expo), PostgreSQL, Google Cloud, AWS
 
-**Contact:** Newport, Arkansas · (870) 201-0441 · boozer.ira@gmail.com
+**Contact:** Newport, Arkansas · boozer.ira@gmail.com
