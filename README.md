@@ -1,4 +1,4 @@
-## Ari Boozer, Software and Web Development
+## Ari Leon Boozer, Software and Web Development
 
 I build websites, web and mobile apps, and automations for small businesses. Fixed prices, fast turnaround.
 
